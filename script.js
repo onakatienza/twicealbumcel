@@ -28,7 +28,7 @@ const songsList = [
     {
         name: "Flow like waves",
         artist: "TWICE",
-        src: "Flow like waves.mp3.",
+        src: "Flow like waves.mp3",
         cover: "black.jpg"
     },
     {
